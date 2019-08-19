@@ -1,3 +1,3 @@
 # wg-analytics
 
-Responsible for analytics features and integrations in AMP. Facilitator: @lannka
+Responsible for analytics features and integrations in AMP. Facilitator: @zhouyx
